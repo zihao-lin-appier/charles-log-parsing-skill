@@ -1,4 +1,4 @@
-# chlz-parse
+# charles-log-parsing-skill
 
 Claude Code skill for parsing Charles `.chlz` proxy logs. Built for ad tech debugging — analyzing VAST, OMID/OM SDK, tracking pixels, and DSP request flows.
 
@@ -6,7 +6,7 @@ Claude Code skill for parsing Charles `.chlz` proxy logs. Built for ad tech debu
 
 ```bash
 git clone https://github.com/zihao-lin-appier/charles-log-parsing-skill.git
-cd chlz-parse
+cd charles-log-parsing-skill
 bash install.sh
 ```
 
