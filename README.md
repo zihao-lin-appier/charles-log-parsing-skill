@@ -5,7 +5,7 @@ Claude Code skill for parsing Charles `.chlz` proxy logs. Built for ad tech debu
 ## Install
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/zihao-lin-appier/charles-log-parsing-skill.git
 cd chlz-parse
 bash install.sh
 ```
